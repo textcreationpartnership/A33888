@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and carriage of Stephen Colledge at Oxford before the castle on Wednesday, August 31, 1681 taken exactly from his own mouth at the place of execution.</title>
+            <author>Colledge, Stephen, 1635?-1681.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33888</idno><idno type="EEBO-CITATION">11184787</idno>
+  <idno type="VID">46604</idno>
+  <idno type="EEBO-PROQUEST">2240943264</idno>
+  
+            <idno type="STC">Wing C5229</idno>
+            <idno type="STC">ESTC R29642</idno>
+            <idno type="OCLC">11184787</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A33888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and carriage of Stephen Colledge at Oxford before the castle on Wednesday, August 31, 1681 taken exactly from his own mouth at the place of execution.</title>
+                  <author>Colledge, Stephen, 1635?-1681.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Basset ... and John Fish ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="topical_term">Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46604:1"/>
+            <pb facs="tcp:46604:1"/>
+            <p>THE SPEECH AND CARRIAGE OF Stephen Colledge AT OXFORD, Before the CASTLE, on WED<g ref="char:EOLhyphen"/>NESDAY AUGUST 31. 1681.</p>
+            <p>Taken exactly from his own Mouth at the Place of Execution.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Basset</hi> at the <hi>George</hi> in <hi>Fleet-street,</hi> and <hi>John Fish</hi> near the <hi>Golden Tun</hi> in the <hi>Strand.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46604:2"/>
+            <pb n="1" facs="tcp:46604:2"/>
+            <head>THE SPEECH AND CARRIAGE OF Stephen Colledge, &amp;c.</head>
+            <sp>
+               <speaker>Mr. High-Sheriff.</speaker>
+               <p> MR. <hi>Colledge,</hi> It is desired for the satisfaction of the World, because you have profest your self a Protestant, that you would tell what Judgement you are of.</p>
+            </sp>
+            <sp>
+               <speaker>Colledge.</speaker>
+               <p> Dear People, Dear Protestants, and Dear Countrey-men, I have been Accused and Convicted for Trea<g ref="char:EOLhyphen"/>son; the Laws adjudge me to this Death, and I come hither willingly to submit to it: I pray God forgive all those persons that had any hand in it. I do declare to you, whatever hath been said of me, I was never a Pa<g ref="char:EOLhyphen"/>pist, or ever that way inclined; they have done me wrong, I was ever a Protestant, I was born a Protestant, I have lived so, and so by the Grace of God I will dye, of the Church of <hi>England,</hi> according to the best Refor<g ref="char:EOLhyphen"/>mation of the Church from all Idolatry, from all Superstition, or any thing that is contrary to the Gospel of our Blessed Lord and Saviour.</p>
+               <p>I do declare I was never in any Popish Service, Prayers or Devotions in my life, save one time about some 17 or 18 years ago, as near as I re<g ref="char:EOLhyphen"/>member, I was out of a Curiosity one Afternoon at St. <hi>James</hi>'s Chappel, the Queens Chappel, at St. <hi>James</hi>'s; except that one time I never did hear any Popish Service, any thing of the Church of <hi>Rome,</hi> Mass or Prayers, or any thing else, Private or Publick. I know you expect that I should say some<g ref="char:EOLhyphen"/>thing as to what I dye for: It hath been charged upon me, when I was appre<g ref="char:EOLhyphen"/>hended and brought before the Council, some of the Council, the Secreta<g ref="char:EOLhyphen"/>ry, and my Lord <hi>Killingworth,</hi> and Mr. <hi>Seymour,</hi> they told me there was Treason sworn against me: truly they surprized me when they said so.
+<pb n="2" facs="tcp:46604:3"/> For of all things in the world I thought my self as free from that as any man. I asked them if any man living had the confidence to swear Trea<g ref="char:EOLhyphen"/>son against me? They said several, three or four as I remember: Then they told me, It was sworn against me, That I had a design to pull the King out of <hi>White-hall:</hi> and to serve him as his Father was served, or to that purpose; the Logger-head his Father, or that kind of Language: I did de<g ref="char:EOLhyphen"/>ny it then, and do now deny it upon my death. I never was in any man<g ref="char:EOLhyphen"/>ner of Plot in my days, neither one way nor another, never knew any such persons, nor ever had such communication with any man hitherto: I know of no Plot in the world but the Popish Plot, and that every man may know as much as I: if I had had such a design as these men have sworn against me, to have seized his Majesty either at <hi>London,</hi> or this place at <hi>Oxford,</hi> I take God to witness, as I am a dying man, and upon the terms of my Salvation, I know not any one man upon the face of the Earth that would have stood by me, and how likely it was that I should do such a thing my self, let the whole world judge.</p>
+               <p>
+                  <hi>Dugdale</hi> swears, That I spoke Treason to him, Treasonable words in the Coffee-house, and in the Barbers shop by the <hi>Angel;</hi> even <hi>He</hi> could not pre<g ref="char:EOLhyphen"/>tend to see me any where else; but it is false and a very unlikely thing that I should speak Treason to him. I must confess I was in his company at the Cof<g ref="char:EOLhyphen"/>fee-house, and that Barbers shop before I went out of Town: but there could be no communication between us, for he was writing at one end of the room, and eating a piece of Bread, and I lighted a Pipe of Tobacco at the other end and took it, till Sir <hi>Tho. Player</hi> and Sir <hi>Rob. Clayton</hi> came to me, and we went to my Lord <hi>Lovelac<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s out of Town that night: So when they came, we took Horse, and went out of Town with the rest: For my part I can't summ up my Witnesses, I was under most strange circumstances as ever any man was: I was kept prisoner so close in the <hi>Tower,</hi> that I could have no conversation with any, though I was certain the Popish Lords had it eve<g ref="char:EOLhyphen"/>ry day there, but I could have none: I could not tell the Witnesses that were to swear against me: I could not tell what it was they swore against me, for I could have no Copy of the Indictment, nor no way possible to make any preparation to make my defence, as I ought to have done, and might have done by Law.</p>
+               <p>I had no liberty to do any thing, as I am a dying man. And as to what <hi>Dugdale, Smith, Turbervill</hi> and <hi>Heines</hi> swore against me, they did swear such Treason, that nothing but a mad man would ever have trusted any body with; and least of all to Papists, every one of them that had been concerned with Plots and Treasons among their own party: and under the greatest ties and obligations of damnation; and to be Sainted if they kept it secret, and to be damned if they did reveal it. If these men will not keep things private for their own party, how could I trust them? I take God to witness, and do freely acknowledge, I have sought my God with tears several times to inform me, if so be I had with any word trans<g ref="char:EOLhyphen"/>grest at any time. I knew not of any part of what they swore against me, till such time as I heard it sworn against me at the Bar.</p>
+               <p>This is very hard Gentlemen, but this is the Truth: and there be a great many other strange Reports that I have heard since I have been a Pri<g ref="char:EOLhyphen"/>soner: That I should be a means to convert the Countess of <hi>Rochester,</hi> by bringing one <hi>Thompson</hi> a Priest to her. Truly all that I was concerned in, was some 15 or 16 years ago. I lodged at Colonel <hi>Vernon</hi>'s, that married
+<pb n="3" facs="tcp:46604:3"/> the Lady <hi>Brooks,</hi> the Family were Papists: The <hi>Brookses</hi> were Papists, and there was this <hi>Thompson,</hi> and I did suppose him a Priest, in the house, though I never saw him at Popish service or Worship, though I was there half a year; but coming afterwards to My Lord <hi>Rochesters</hi> about some business I had to do for him, and several other persons of Quality; he sent for me one Afternoon from the Parsonage in <hi>Adderbury</hi> to his house, and his Lady and he stood together: He sent to me and asked me if my Horse were at home, said he, I would have you carry this Letter to Mr. <hi>Thompson,</hi> if you are at leisure this Afternoon: My Lord I am at leisure to serve you, so I took a Letter from his hand and his Ladies too as I remember (he made an offer that way) Sealed with his own Seal, and I carried it to <hi>Thompson</hi> and delivered it to him, and he told me that he would wait upon my Lord, for it was for some Lands my Lord did offer to raise money for some oc<g ref="char:EOLhyphen"/>casion: this is the truth of that scandal.</p>
+               <p>It is said that I had a Priest several years in my house, <hi>viz. Sergeant</hi> that came over from <hi>Holland</hi> to discover: About some Ten years ago, that very same man came to me, but was a stranger to me, and he came to me by the name of Doctor <hi>Smith</hi> a Physcian: and there was an Apothe<g ref="char:EOLhyphen"/>cary in the <hi>Old-Bayly,</hi> and a Linnen Draper within <hi>Ludgate,</hi> that came with him, they brought him thither and took a Chamber and lay about half a year, or three quartes at times, by the name of Doctor <hi>Smith,</hi> and as a Phy<g ref="char:EOLhyphen"/>sician: this is the truth of that and no otherwise. This is the entertainment of <hi>Sergeant.</hi>
+               </p>
+               <p>So the occasion of my coming to <hi>Oxford</hi> I do say was voluntary, the Parliament men last Parliament at <hi>Westminster,</hi> and several Lords dined together the day before they sat; the last Sessions of Parliament at <hi>Westminster</hi> they sent for me to the <hi>Sun</hi> Tavern behind the <hi>Exchange,</hi> and when I came, the Duke of <hi>Monmouth</hi> and several Lords were together, and I believe above 100 Parliament men of the Commons: The Duke of <hi>Monmouth</hi> called me to him and told me he had heard a good report of me, and that I was an honest man and one that may be trusted; and they did not know but their Enemies the Papists might have some design to serve them as they did in King <hi>James</hi>'s time by Gun-powder, or any other way: And the Duke with several Lords and Commons did desire me to use my utmost skill in searching all places suspected by them, which I did perform: and from thence I had as I think the Popular name of the Protestant Joyner, be<g ref="char:EOLhyphen"/>cause they had intrusted me before any man in <hi>England</hi> to do that Office.</p>
+               <p>This same <hi>Heines,</hi> one of them that Swore against me, had discovered to me and several others as to <hi>Macknamarra</hi> and his brother and this <hi>Ivey,</hi> who are now all of another stamp, that the Parliament was to be de<g ref="char:EOLhyphen"/>stroyed at <hi>Oxford,</hi> and that there was a design to murder my Lord <hi>Sshafts<g ref="char:EOLhyphen"/>bury,</hi> by <hi>Fitzgerald</hi> and his party; and that they did endeavour to bring <hi>Macknamarra</hi> over to him, and said, then it would be well with him: and they would not be long before they had <hi>Shaftsburies</hi> life: and he made Depositions of this to Sir <hi>George Treby,</hi> as I heard afterwards, for I was not with him when it was Sworn. I wish the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as well as I wish my own heart; and I did not understand but when I served the Parliament, I served his Majesty too, and let them be mi<g ref="char:EOLhyphen"/>serable that make the difference between them, for my part I never did. I came to <hi>Oxford</hi> with my Lord <hi>Howard,</hi> whom I look upon to be a very honest worthy Gentlemen, My Lord <hi>Clare.</hi> My Lord <hi>Paget</hi> and my Lord <hi>Hun<g ref="char:EOLhyphen"/>tington</hi>
+                  <pb n="4" facs="tcp:46604:4"/> and this Captain <hi>Brown</hi> and <hi>Don L<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wis</hi> were in my Company, and came along with us, as they were my Lord <hi>Howards</hi> friends, <hi>Brown</hi> I have known I believe two or three months; but <hi>L<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wis</hi> I never saw before that day: They said they came with my Lord <hi>Howard.</hi> I take God to Witness, I never had one 6 <hi>d.</hi> or any thing else to carry on any design; and if it were to save my life now, I cannot charge any man in the world with any design against the Government, as God is my Witness, or a<g ref="char:EOLhyphen"/>gainst his Majesty, or any other person. As for what Arms I had, and what Arms others had, they were for our own defence in case the Pa<g ref="char:EOLhyphen"/>pists should make any attempt upon us by way of Massacre, or any Invasion or Rebelion, that we should be ready to defend our selves; God is my Witness, this is all I know: If this be a Plot; this I was in, but in no other, but never knew of any numbers or times appointed for meeting; but we have said one to another that the Papists had a design against the Protestants, when we did meet, as I was a man of general conversation; and in case they should rise we were ready, but then they should begin the attempt upon us: This was my business, and is the business of every good Subject that loves the Laws of his Country and his King. For <hi>England</hi> can never hope to be happy under those blood-thirsty men; whose Religion is blood and murder, which I do with all my soul, and did ever since I knew what Religion was, abhor and detest, <hi>viz.</hi> the Church of <hi>Rome</hi> as pernitious and destructive to humane Societies and all Government.</p>
+               <p>I beseech God that every man of you may unite together as Protestants against this common Foe. Gentlemen it is my sense, and I do in that believe I am as certainly murdred by the hands of the Papists as Sir <hi>Edm. Bury God<g ref="char:EOLhyphen"/>frey</hi> himself was, though the thing is not seen: These Witnesses certainly are mercenary men, and I beseech God almighty to have mercy upon their Souls, and forgive them; and either by his judgments or mercies reclaim them, that they shed no more innocent blood: There is not a man of 'em that I know of that ever heard me say or do any bit of Treason in my life: This is (the first I may not say it is) but almost the <hi>20th.</hi> Sham-plot that they have endeavoured to put upon the Nation, to delude the people and put off their own Damnable Plot. This is not the first, but I think the sixteenth or seventeenth. I pray God that my blood may be the last: I pray God defend every mans blood, and all Protestants in <hi>England</hi> from the hands of these bloody Papists, by whose means I die this Death; and if they shall go on in this nature, I hope the good God will open eve<g ref="char:EOLhyphen"/>ry mans eyes to see it before he feels it. And I beseech you if you have any love for your King, your Country, and the Protestants, unite together if you are Protestants. I pray God those that deserve the name, let 'em be called how they will, either Dissenters or Church of <hi>England</hi> men, That they may unite together like men, like Christians, against the com<g ref="char:EOLhyphen"/>mon Foe, who will spare neither the one side nor the other, but beat you one against another like two Pitchers; the last that stands they will certain<g ref="char:EOLhyphen"/>ly destroy if they can. This is my sense and God's my Witness, I speak my Conscience. I do not know Mr. Sheriff whether there be any thing else I have to say or no; we have a good God, and I beseech every man that hears me this day, (for we live in a sinful age, good people, and it behoves every one of you; it cannot belong before all that look upon me in this conditi<g ref="char:EOLhyphen"/>tion must lie down in the Dust, and God knows must come into an eternal State either for mercy or for judgment) I beseech you in the name of
+<pb n="5" facs="tcp:46604:4"/> God, he is a God of <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and a God of Patience and long suffering, that you would break o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>sins by repentance, and serve a good God who must be your friend <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t, or else you are lost to Eternity.</p>
+               <p>O Lord, how u<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ateful wretches are we, that have a God of such in<g ref="char:EOLhyphen"/>finite mercy and g<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ess, that affords us our life, our health, and a thousand mercies every day, and we like ungrateful people, not deserving the name of men or Christians, live riotous lives in debauchery and swearing, in ma<g ref="char:EOLhyphen"/>lice, and the Lord knows how many evils: I beseech God that I may be this day a means in the hand of God, to bring some of their Souls over to him: I beseech you remember what I say; indeed I do not know, I have been so strangely used since I have been a Prisoner, what to say: being brought from one affliction to another, that my body is worn out, and my memo<g ref="char:EOLhyphen"/>ry and Intellects have failed me much to what they were: I can't remem<g ref="char:EOLhyphen"/>ber what I have to say more, but that the Lord Jesus Christ would bless my Countrey, and preserve it from Popery, and in mercy bless his Maje<g ref="char:EOLhyphen"/>sty: Good God be merciful to him, make him an Instrument in thy hand to defend his Protestant Subjects; Lord in mercy defend him from his ene<g ref="char:EOLhyphen"/>mies: Good God bless this people, good Lord continue the Gospel of Jesus Christ, thy Gospel in its purity to us and our posterity, as long as the Sun and Moon endure. O Lord save all that call upon thee, be merciful to all thy servants, all thy people that put their trust in thee: Good Lord deli<g ref="char:EOLhyphen"/>ver them from the hand of their Enemies: Good God, let their lives and bodies and souls be all precious in thy sight: O merciful God, put a stop to these most wicked Conspiracies of thy enemies, and the nations ene<g ref="char:EOLhyphen"/>mies, the Papists. Let no more Protestant blood be shed but this of mine, I beseech thee, O my God. O Lord look upon me, O Lord bless me, O good God receive me into thy blessed presence, by Jesus Christ my alone Saviour and Redeemer, in whom alone I put my trust for Salvation: It is thee, O God, that I trust in, thou righteous Judge of Heaven and Earth: all Popery, all Pardons, all Popes and Priests, all Dispensations I dis<g ref="char:EOLhyphen"/>own, and will not go out of the world with a Lye in my mouth: From the sincerity of my heart I declare again, that what I have said to you is the very sentiments of my Soul, as God shall have mercy upon me, and to the best of my knowledge.</p>
+               <p>I desire the Prayers of you good people while I am here, and once more I beseech you to think upon Eternity every one of you that hear me this day. The Lord turn your Hearts and Souls if you have been wicked li<g ref="char:EOLhyphen"/>vers; if you do live wicked lives the Lord in mercy convert you, and shew you your danger: for I as little thought to come to this as any man that hears me this day; and I bless God, I have no more deserved it from the hands of men than the Child that sucks at his mothers Breast: I bless my God for it; and do say I have been a sinner against my God, and he hath learnt me Grace ever since I have been a Prisoner. I bless my God for a Prison, I bless my God for Afflictions, I bless my God that ever I was re<g ref="char:EOLhyphen"/>strained, for I never knew my self till he had taken me out of the world. Therefore you that have your liberties, and time, and precious opportuni<g ref="char:EOLhyphen"/>ties, be up and be doing for God and for your Souls, every one of you.</p>
+               <p>
+                  <stage>To his Son.</stage> Where is my dear Child?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sheriff.</speaker>
+               <p> I made one request to you, and you gave me an imperfect Answer: You said you were of the best Reformed Church in the world, the Church of <hi>England</hi> according to the best Reformation in the World: I desire you for the satisfaction of the world to declare what Church that
+<pb n="6" facs="tcp:46604:5"/> is, whether Presbyterian, or Independent, or the Church of <hi>England,</hi> or what?</p>
+            </sp>
+            <sp>
+               <speaker>Colledge.</speaker>
+               <p> Good Mr. Sheriff, for your satisfaction: For twenty years and above I was under the Presbyterian Ministry till his Majesties Restaurati<g ref="char:EOLhyphen"/>on; then I was conformable to the Church of <hi>England</hi> when that was re<g ref="char:EOLhyphen"/>stored, and so continued till such time as I saw persecutions upon the dis<g ref="char:EOLhyphen"/>senting people, and very undue things done in their Meeting-places; then I went among them to know what kind of people those were: and I do take God to witness, since that time I have used their meetings, <hi>viz.</hi> the Presbyterians, others very seldom, and the Church of <hi>England.</hi> I did hear Dr. <hi>Tillotson</hi> not above three weeks before I was taken. I heard the Church of <hi>England</hi> as frequently as I heard the Dissenters; and never had any prejudice, God is my witness, against either, but always heartily desi<g ref="char:EOLhyphen"/>red that they might unite, and be Lovers and Friends, and I had no prejudice against any man; and truly I am afraid that it is not for the Nations good that there should be such heart-burnings between them: That some of the Church of <hi>England</hi> will preach that the Presbyterians are worse than the Papists. God doth know that what I say, I speak freely from my heart, I have found many among them truly serving God, and so I have of all the rest that have come into my company; men without any manner of design but to serve God, serve his Majesty, and keep their Liberties and Properties; men that I am certain are not of vicious lives; I found no Dammers or those kind of people among them, or at least few of them.</p>
+               <p>
+                  <stage>To his Son, Kissing him several times with great passion.</stage> Dear Child Fare<g ref="char:EOLhyphen"/>wel, the Lord have mercy upon thee. Good people, let me have your Prayers to God almighty to receive my Soul.</p>
+               <p>
+                  <stage>And then he Prayed: And as soon as he had done spake as followeth:</stage>
+               </p>
+               <p>The Lord have mercy upon my Enemies, and I beseech you good people who ever you are, and the whole world that I have offended to forgive me, whom ever I have offended in word or deed, I aske every mans pardon, and I forgive the World withal my soul, all the injuries I have received, and I beseech God Almighty forgive those poor Wretches who have cast a<g ref="char:EOLhyphen"/>way their souls or at least endangered them to ruine this body of mine: I beseech God that they may have a sight of their sins, and that they may find mercy at his hands: Let my blood speak the Justice of my cause.</p>
+               <p>I have done: and God have mercy upon you all.</p>
+               <p>
+                  <stage>To Mr. <hi>Crosthwait.</hi>
+                  </stage> Pray Sir my service to Dr. <hi>Hall,</hi> and Dr. <hi>Reynall,</hi> and thank them for all their kindnesses to me; I thank you Sir for your kindness: The Lord bless you all. Mr. Sheriff, God be with you: God be with you all good people.</p>
+            </sp>
+            <p>
+               <hi>The Executioner</hi> Ketch <hi>desired his pardon.</hi> And he said I do forgive you. The Lord have mercy on my soul.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertisement.</head>
+            <p>The Arraignment, Tryal and Condemnation of <hi>Ste<g ref="char:EOLhyphen"/>phen Colledge,</hi> will be published the next week; Price 2 <hi>s.</hi> 6 <hi>d.</hi> Printed for <hi>Tho. Basset,</hi> and <hi>John Fish.</hi>
+            </p>
+            <pb facs="tcp:46604:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
